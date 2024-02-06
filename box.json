@@ -318,7 +318,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "4K🐟胖达|网盘",
+      "name": "4K🐟折柳|网盘",
       "type": 3,
       "api": "csp_PanSearch",
       "jar": "http://我不是.摸鱼儿.top/0206/lib/jar/mypg.php",
@@ -340,7 +340,7 @@
     },
     {
       "key": "盘搜mypg",
-      "name": "4K🐟盘搜|弹幕",
+      "name": "4K🐟黛草|弹幕",
       "type": 3,
       "api": "csp_PanSou",
       "jar": "http://我不是.摸鱼儿.top/0206/lib/jar/mypg.php",
@@ -1780,7 +1780,7 @@
     },
     {
       "key": "push_agent9",
-      "name": "导航",
+      "name": "导航 | http://我不是.摸鱼儿.top",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
@@ -1800,7 +1800,7 @@
     },
     {
       "key": "push_agent1",
-      "name": "请于24小时内删除测试内容",
+      "name": "QQ群536992286|请于24小时内删除测试内容",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
@@ -1810,7 +1810,7 @@
     },
     {
       "key": "push_agent2",
-      "name": "",
+      "name": "关注夕颜社区|更多优质资源",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
